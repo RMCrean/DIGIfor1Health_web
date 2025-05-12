@@ -1,4 +1,4 @@
-# SITE CONFIGURATION
+# SITE CONFIGURATION, trigger action
 baseurl: "/DIGIfor1Health_web"
 url: "https://rmcrean.github.io" 
 
