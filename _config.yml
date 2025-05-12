@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl:
-url: "https://digifor1health.se/"
+baseurl: ""
+url: "https://rmcrean.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Hem                                          # site's title
